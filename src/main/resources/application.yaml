@@ -1,6 +1,8 @@
 spring:
   application:
     name: betapp-config-server
+  profiles:
+    active: default, development, production
   cloud:
     config:
       server:
