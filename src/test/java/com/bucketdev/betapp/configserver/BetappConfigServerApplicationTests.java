@@ -1,4 +1,4 @@
-package com.bucketdev.betappconfigserver;
+package com.bucketdev.betapp.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
